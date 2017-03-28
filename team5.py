@@ -1,4 +1,4 @@
-team_name = 'Analyssia'
+team_name = 'Annalyssia'
 strategy_name = 'GOD TYPE'
 strategy_description = 'INFALLABLE'
     
